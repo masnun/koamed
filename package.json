@@ -1,0 +1,22 @@
+{
+  "name": "koamed",
+  "version": "1.0.0",
+  "description": "Koa app for a tutorial series on medium.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Abu Ashraf Masnun",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-json": "^2.0.2",
+    "koa-logger": "^3.2.0",
+    "koa-router": "^7.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.21"
+  }
+}
