@@ -17,6 +17,11 @@
     "koa-router": "^7.4.0"
   },
   "devDependencies": {
+    "@types/koa": "^2.0.48",
+    "@types/koa-bodyparser": "^4.2.1",
+    "@types/koa-json": "^2.0.18",
+    "@types/koa-logger": "^3.1.1",
+    "@types/koa-router": "^7.0.39",
     "@types/node": "^10.12.21"
   }
 }
